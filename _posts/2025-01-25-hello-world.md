@@ -1,10 +1,10 @@
 ---
-title: "Hello World"
+title: "Ruby Cryptography 101"
 date: 2025-01-25 00:00:00 +0800
-categories: [Hello World]
-tags: [Hello World]
+categories: [Cryptography]
+tags: [Ruby]
 ---
 
-# Hello World
+# Ruby Cryptography 101
 
-Hello world, this is my personal blog.
+test message
